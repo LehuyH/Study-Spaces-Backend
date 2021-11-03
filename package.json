@@ -20,7 +20,7 @@
     "schema-validator": "^3.3.1",
     "socket.io": "^2.3.0",
     "socketio": "^1.0.0",
-    "validator": "^13.0.0"
+    "validator": "^13.7.0"
   },
   "engines": {
     "node": "12.x"
